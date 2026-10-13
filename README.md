@@ -1,1 +1,0 @@
-Builderius test static deployment
